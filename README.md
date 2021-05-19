@@ -5,8 +5,10 @@
 
 <h1>Recursos Utilizados no Desenvolvimento da Aplicação</h1>
 Vou citar aqui alguns recursos que estaremos utilizando durante o desenvolvimento dessa aplicação no decorrer desse artigo. São eles:
-Visual Studio Code
-Node.js
-Postman
-Pacote — node-postgres
-PostgreSQL
+<ul>
+   <li>Visual Studio Code</li>
+   <li>Node.js</li>
+   <li>Postman</li>
+   <li>Pacote — node-postgres</li>
+   <li>PostgreSQL</li>
+</ul>
