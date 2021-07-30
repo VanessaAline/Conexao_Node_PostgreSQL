@@ -16,15 +16,3 @@
 <p>Uma das coisas que atrai a muitos a usarem o PostgreSQL é que ele é totalmente gratuito, disponível em qualquer Sistema Operacional e o melhor de tudo: é totalmente Open Source! <br>
 O PostgreSQL foi a primeira base de dados que eu tive contato e foi com ele que aprendi nas aulas de Banco de Dados I e II no ano de 2019 na Faculdade. Sempre gostei dele porque é muito simples e fácil de usar!</p>
 <br>
-<p>Iniciando projeto Node:</p>
-<ul>
-   <li>npm init -y</li>
-</ul><br>
-<p>Pacotes:</p>
-<ul>
-   <li>npm i --save-dev nodemon</li>
-</ul><br>
-<p>Dependencias:</p>
-<ul>
-   <li>npm i cors dotenv express express-promise-router pg</li>
-</ul>
