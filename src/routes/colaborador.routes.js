@@ -2,12 +2,16 @@
  * Arquivo: src/routes/colaborador.routes.js
  * Descrição: arquivo responsável pelas rotas da api relacionado a classe 'colaborador'.
  */
-const router = require('express-promise-router')();
-const colaboradorController = require('../controllers/colaborador.controller');
 
-// ==> Definindo as rotas do CRUD - 'Colaborador':
+// // ==> Definindo as rotas do CRUD - 'Colaborador':
 
-// ==> Rota responsável por criar um novo 'Colaborador': (POST): localhost:3000/api/colaborador
+import { Router } from 'express';
+import ColaboradorController from '../controllers/colaborador.controller';
 
-router.post('/colaborador', colaboradorController.createColaborador);
-module.exports = router;
+// import loginRequired from '../middleware/loginRequired';
+
+const router = new Router();
+
+router.post('/', ColaboradorController.create);
+
+export default router;

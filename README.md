@@ -14,7 +14,5 @@
 </ul>
 
 <p>Uma das coisas que atrai a muitos a usarem o PostgreSQL é que ele é totalmente gratuito, disponível em qualquer Sistema Operacional e o melhor de tudo: é totalmente Open Source! <br>
-O PostgreSQL foi a primeira base de dados que eu tive contato e foi com ele que aprendi nas aulas de Banco de Dados I e II no ano de 2019 na Faculdade. Sempre gostei dele porque é muito simples e fácil de usar!
-
-Vamos nessa!</p>
+O PostgreSQL foi a primeira base de dados que eu tive contato e foi com ele que aprendi nas aulas de Banco de Dados I e II no ano de 2019 na Faculdade. Sempre gostei dele porque é muito simples e fácil de usar!</p>
 <br>
